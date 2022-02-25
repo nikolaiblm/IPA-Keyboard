@@ -1,0 +1,4 @@
+C:\Users\nikol\source\repos\IPA Keyboard\IPA Keyboard\x64\Debug\IPA Keyboard.vcxproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\IPA Keyboard\IPA Keyboard\x64\Debug\IPA Keyboard.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\nikol\source\repos\IPA Keyboard\IPA Keyboard\x64\Debug\IPAKeyboard.MyForm.resources
+C:\Users\nikol\source\repos\IPA Keyboard\IPA Keyboard\x64\Debug\IPA Keyboard.vcxproj.GenerateResource.cache
